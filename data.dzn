@@ -1,0 +1,13 @@
+Services = {HTTP, FTP, Mail, WSGI, Monitoring, Proxy};
+vms_cpu = [4, 2, 4, 6, 8, 2];
+vms_ram = [4, 2, 2, 4, 6, 2];
+vms_load_capability = [200, 250, 400, 150, 80, 500];
+
+
+Servers = {Server1, Server2, Server3, Server4, Server5};
+servers_cpu = [40, 40, 64, 64, 88];
+servers_ram = [336, 336, 366, 366, 366];
+
+demands = [10000, 2000, 8000, 30000, 1000, 60000];
+
+
