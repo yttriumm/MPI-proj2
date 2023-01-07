@@ -8,6 +8,6 @@ Servers = {Server1, Server2, Server3, Server4, Server5};
 servers_cpu = [40, 40, 64, 64, 88];
 servers_ram = [336, 336, 366, 366, 366];
 
-demands = [10000, 2000, 8000, 30000, 1000, 60000];
+demands = [500, 600, 700, 400, 900, 1000];
 
 
